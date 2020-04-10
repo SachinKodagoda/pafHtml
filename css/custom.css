@@ -1,0 +1,53 @@
+.fullStar{
+    color: #FFC107
+}
+
+.spBlue{
+    background-color: #3259CA;
+}
+
+.spBlueText{
+    color: #fff;
+}
+
+.spContacts{
+    list-style: none;
+    padding: 0;
+}
+
+.spContacts li{
+    margin: 1rem 0;
+}
+
+.docRow{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.spDoctorImg img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    border: .1rem solid #3259CA;
+    border-radius: 50%;
+
+}
+
+.docRowLeft{
+    margin: 1rem
+}
+
+.custDoc{
+    font-size: 2.5rem;
+    color: #3259CA;
+}
+
+.customDateInput{
+    text-align: center;
+    cursor: pointer;
+}
+
+.customDateInputCover{
+    width: 250px;
+    margin: auto
+}
